@@ -22,7 +22,7 @@ I'm looking for an entry-level Java developer role.
 ## Projects
 - [Student Management System](https://github.com/mohitsingh-makwana/mohit-student-management-api): Spring Boot REST API with JWT authentication, Logging, Validation and Spring Data Jpa.
 - [Swarn Setu API](https://github.com/mohitsingh-makwana/swarnsetu-api): CRUD API with pagination, validation, file handling, email-service.
-- Coming soon[Bustrackr]
+- Coming soon - Bustrackr
 
 ## Connect with me
 - [LinkedIn](http://www.linkedin.com/in/mohit-singh-makwana18)

@@ -11,7 +11,7 @@ I'm looking for an entry-level Java developer role.
 
 ## Tech stack
 - **Languages:** Java, SQL
-- **Frameworks:** Spring Boot, Hibernate/JPA, Spring Security, Spring
+- **Frameworks:** Spring Boot, Hibernate/JPA, Spring Security, Spring Data Jpa
 - **Database:** MySQL, Redis
 - **Tools:** Git, GitHub, Maven, Docker, Postman, IntelliJ IDEA, Docker, Redisno 
 

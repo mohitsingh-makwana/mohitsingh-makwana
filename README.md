@@ -13,7 +13,7 @@ I'm looking for an entry-level Java developer role.
 - **Languages:** Java, SQL
 - **Frameworks:** Spring Boot, Hibernate/JPA, Spring Security, Spring Data Jpa
 - **Database:** MySQL, Redis
-- **Tools:** Git, GitHub, Maven, Docker, Postman, IntelliJ IDEA, Docker, Redisno 
+- **Tools:** Git, GitHub, Maven, Docker, Postman, IntelliJ IDEA
 
 ## Practice repos
 - [dsa-java](https://github.com/mohitsingh-makwana/dsa-java): DSA problems in Java with approach and complexity

@@ -20,7 +20,9 @@ I'm looking for an entry-level Java developer role.
 - [sql-practice](https://github.com/mohitsingh-makwana/sql-practice): SQL queries by topic
 
 ## Projects
-- Coming soon
+- [Student Management System]([https://github.com//library-management-system](https://github.com/mohitsingh-makwana/mohit-student-management-api)): Spring Boot REST API with JWT authentication, Logging, Validation and Spring Data Jpa.
+- [Swarn Setu API]([https://github.com/<your-username>/task-manager-api](https://github.com/mohitsingh-makwana/swarnsetu-api): CRUD API with pagination, validation, file handling, email-service.
+- Coming soon[Bustrackr]
 
 ## Connect with me
 - [LinkedIn](http://www.linkedin.com/in/mohit-singh-makwana18)

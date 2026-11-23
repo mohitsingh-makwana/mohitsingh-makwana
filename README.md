@@ -7,7 +7,7 @@ I'm looking for an entry-level Java developer role.
 - 🎓 B.Tech (4th year) at Acropolis Institute of Technology & Research
 - 🔭 Currently learning: Microservices, Kafka 
 - 💻 Practicing DSA and SQL regularly
-- 📫 Reach me at: [mahi20thakur@gmail.com]
+- 📫 Reach me at: [Email](mahi20thakur@gmail.com)
 
 ## Tech stack
 - **Languages:** Java, SQL
@@ -26,4 +26,4 @@ I'm looking for an entry-level Java developer role.
 
 ## Connect with me
 - [LinkedIn](http://www.linkedin.com/in/mohit-singh-makwana18)
-- [Email](mailto:mahi20thakur@gmail.com)
+- [Email](mahi20thakur@gmail.com)

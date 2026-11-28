@@ -5,7 +5,7 @@ I'm looking for an entry-level Java developer role.
 
 ## About me
 - 🎓 B.Tech (4th year) at Acropolis Institute of Technology & Research
-- 🔭 Currently learning: Microservices, Kafka 
+- 🔭 Currently learning: Microservices
 - 💻 Practicing DSA and SQL regularly
 - 📫 Reach me at: [mahi20thakur@gmail.com]
 
